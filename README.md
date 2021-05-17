@@ -27,15 +27,5 @@ Also when using the pro-api you have to add your API key to the headers of the r
  
 ### Screenshots from the Application
 
-## My cryptos page
-![Screenshot_20210517-224404](https://user-images.githubusercontent.com/23129834/118551047-2168de00-b766-11eb-9b16-80e8f54aeb94.jpg)
-
-## Top 20 page
-![Screenshot_20210517-224426](https://user-images.githubusercontent.com/23129834/118551062-2463ce80-b766-11eb-8dfe-a4787cee1125.jpg)
-
-## Euro to Crypto converter page
-![Screenshot_20210517-224453](https://user-images.githubusercontent.com/23129834/118551092-2e85cd00-b766-11eb-92b4-611972732982.jpg)
-
-## Value alerts page
-![Screenshot_20210517-224529](https://user-images.githubusercontent.com/23129834/118551112-35acdb00-b766-11eb-9451-e1242c8f6bd1.jpg)
+![imageonline-co-merged-image (1)](https://user-images.githubusercontent.com/23129834/118552468-aa344980-b767-11eb-88b8-888f58a182da.png)
 
