@@ -25,6 +25,10 @@ Also when using the pro-api you have to add your API key to the headers of the r
 | ------------- |-------------| 
 |   X-CMC_PRO_API_KEY  | d3******-****-****-****-**********0c | 
  
+### Link to expo installation
+
+[crypto-tracker on expo](https://expo.io/@komukal/projects/crypto-tracker)
+ 
 ### Screenshots from the Application
 
 ![imageonline-co-merged-image (1)](https://user-images.githubusercontent.com/23129834/118552468-aa344980-b767-11eb-88b8-888f58a182da.png)
