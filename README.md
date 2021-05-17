@@ -1,6 +1,6 @@
 # crypto-tracker
 ### Short description
-crypto-tracker is a mobile app project made for people who have various crypto currencies in different wallets/services.The application only tracks the values and does not require deposits/logins/verification or anything else. All data is located only on your phone. The project is a part of Haaga-Helia's "Mobile Programming" course
+crypto-tracker is a mobile app made for people who have various crypto currencies in different wallets/services.The application only tracks the values and does not require deposits/logins/verifications or anything else.
 #### Main features of the application:
 
 * Adding crypto currencies to your own page, with the ability to note down which wallet or service the cryoto currency is located. The app support many of the same crypto in different wallets.
