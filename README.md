@@ -25,10 +25,20 @@ Also when using the pro-api you have to add your API key to the headers of the r
 | ------------- |-------------| 
 |   X-CMC_PRO_API_KEY  | d3******-****-****-****-**********0c | 
  
+Also in the app i have used EXPO notifications
+
 ### Link to expo installation
 
 [crypto-tracker on expo](https://expo.io/@komukal/projects/crypto-tracker)
  
+### Known issues
+
+* If the app is open for a while, it starts to slow down and might possibly throw some error code. This has most likley something to do with the fetching data from the api many times possibly because of state changes.
+* The convert page will crash the app if you dont allow it some time to fetch the data after changing the currency
+* Notifications are a bit WIP, i have not been able to display up to date data from the API in the notification. I have not been able yet to find a proper solution since expo's notification package just got renewd and combines multiple packages so the documentation for the notifications are a bit contradictory.
+
+
+
 ### Screenshots from the Application
 
 ![imageonline-co-merged-image (1)](https://user-images.githubusercontent.com/23129834/118552468-aa344980-b767-11eb-88b8-888f58a182da.png)
