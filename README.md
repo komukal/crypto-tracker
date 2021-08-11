@@ -11,7 +11,7 @@ crypto-tracker is a mobile app made for people who have various crypto currencie
 ### Technologies used
 
 The application is built using Expo and React-Native.
-Data is provided by [CoinMarketCap's API](https://coinmarketcap.com/api/), and for development purposes i have used CMC's sandbox api, which has apparently serves historical data. Since the app is not public/in actual use i have not used the proper API due to constraints with the API call credits. If i were to publish the application it would only require changing the subdomain on the api URL from 
+Data is provided by [CoinMarketCap's API](https://coinmarketcap.com/api/), and for development purposes i have used CMC's sandbox api, which apparently serves historical data. Since the app is not public/in actual use i have not used the proper API due to constraints with the API call credits. If i were to publish the application it would only require changing the subdomain on the api URL from 
 
 > https://sandbox-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest?id=1&EUR&convert=eur
 
