@@ -1,6 +1,13 @@
 # crypto-tracker
 ### Short description
 crypto-tracker is a mobile app made for people who have various crypto currencies in different wallets/services.The application only tracks the values and does not require deposits/logins/verifications or anything else.
+
+### Screenshots from the Application
+
+![imageonline-co-merged-image (1)](https://user-images.githubusercontent.com/23129834/118552468-aa344980-b767-11eb-88b8-888f58a182da.png)
+
+
+
 #### Main features of the application:
 
 * Adding crypto currencies to your own page, with the ability to note down which wallet or service the cryoto currency is located. The app support many of the same crypto in different wallets.
@@ -38,8 +45,4 @@ Also in the app i have used EXPO notifications
 * Notifications are a bit WIP, i have not been able to display up to date data from the API in the notification. I have not been able yet to find a proper solution since expo's notification package just got renewd and combines multiple packages so the documentation for the notifications are a bit contradictory.
 
 
-
-### Screenshots from the Application
-
-![imageonline-co-merged-image (1)](https://user-images.githubusercontent.com/23129834/118552468-aa344980-b767-11eb-88b8-888f58a182da.png)
 
